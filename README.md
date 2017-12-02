@@ -22,6 +22,11 @@ www  WEB部署目录（或者子目录）
 │  │    ├─Index.php     入口控制器，继承自 Bread 
 │  │  ├─model           模型目录
 │  │  ├─view            视图目录
+|
 ├─docs                  文档目录
 │  ├─localhost.sql      测试数据表
+|
 |——README-THINK.md      thinkphp 文档
+
+## 项目运行
+请查阅[README-THINK](https://github.com/huliuqing/think_bread/blob/master/README-THINK.md)
