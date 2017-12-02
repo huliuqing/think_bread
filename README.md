@@ -27,6 +27,7 @@ www  WEB部署目录（或者子目录）
 │  ├─localhost.sql      测试数据表
 |
 |——README-THINK.md      thinkphp 文档
+~~~
 
 ## 项目运行
-[README-THINK](README-THINK.md)
+请查阅 [README-THINK](README-THINK.md)
