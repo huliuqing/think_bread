@@ -29,4 +29,4 @@ www  WEB部署目录（或者子目录）
 |——README-THINK.md      thinkphp 文档
 
 ## 项目运行
-请查阅[README-THINK](https://github.com/huliuqing/think_bread/blob/master/README-THINK.md)
+[README-THINK](README-THINK.md)
