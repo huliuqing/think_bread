@@ -1,0 +1,10 @@
+<html>
+    <head><title>user</title></head>
+    <body>
+        {foreach $list as $vo} 
+            {$vo.user_id} : {$vo.user_name} 
+        {/foreach}
+
+        {$pagination}
+    </body>
+</html>

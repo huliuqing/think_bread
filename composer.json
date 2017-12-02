@@ -1,0 +1,32 @@
+{
+    "name": "huliuqing/think_bread",
+    "description": "A easy CRUD library for thinkphp 5.0",
+    "type": "project",
+    "keywords": [
+        "easy crud",
+        "thinkphp"
+    ],
+    "homepage": "http://blog.phpzendo.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huliuqing",
+            "email": "huliuqing1989@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "topthink/framework": "~5.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "application"
+        }
+    },
+    "extra": {
+        "think-path": "thinkphp"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
