@@ -29,7 +29,6 @@ www  WEB部署目录（或者子目录）
 |——README-THINK.md      thinkphp 文档
 ~~~
 
-
 ## 安装项目
 
 1. 复制项目
