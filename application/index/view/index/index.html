@@ -2,7 +2,7 @@
     <head><title>user</title></head>
     <body>
         {foreach $list as $vo} 
-            {$vo.user_id} : {$vo.user_name} 
+            {$vo.user_id}:{$vo.user_username}
         {/foreach}
 
         {$pagination}
