@@ -1,9 +1,9 @@
 {
     "name": "huliuqing/think_bread",
-    "description": "A easy CRUD library for thinkphp 5.0",
+    "description": "A easy CRUD(CURD) library for thinkphp 5.0",
     "type": "project",
     "keywords": [
-        "easy crud",
+        "easy crud(curd)",
         "thinkphp"
     ],
     "homepage": "http://blog.phpzendo.com",
